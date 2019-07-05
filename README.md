@@ -6,12 +6,10 @@ publicados en la [Gaceta Parlamentaria](http://gaceta.diputados.gob.mx/)
 
 ## Archivos disponibles en txt:
 
-  * [Diputados](https://github.com/d4tagirl/uruguayan_parliamentary_session_diary/raw/master/data/diputados.csv)
+  * [Diputados](https://github.com/lizBelmonte/NLP_Diputados/blob/master/data.json)
 
 ## Paquetes destacados:
 
-  * `robotstxt` de [rOpenSci](https://ropensci.org/), para ver si la sección del sitio web que quiero navegar permite ser accedida por un robot 🤖;
-  * `rvest`, para explorar la web y descargar los Diarios de Sesiones;
   * `pdftools` también de rOpenSci, para extraer el contenido de los archivos en formato pdf;
 
 ## Contenido:
