@@ -8,6 +8,14 @@ publicados en la [Gaceta Parlamentaria](http://gaceta.diputados.gob.mx/)
 
   * [Diputados](https://github.com/lizBelmonte/NLP_Diputados/blob/master/data.json)
 
+La información que contiene el archivo es la siguiente:
+
+* Doc_Name: corresponde al nombre con el que el archivo fue descargado originalmente.
+* Entidad: estado de la República del Diputado.
+* Grupo: grupo Parlamentario (partido político) al que pertenece el Diputado.
+* Nombre: Nombre del Diputado.
+* text: el informe como tal y sin limpiar.
+
 ## Paquetes destacados:
 
   * `pdftools` también de rOpenSci, para extraer el contenido de los archivos en formato pdf;
@@ -15,7 +23,12 @@ publicados en la [Gaceta Parlamentaria](http://gaceta.diputados.gob.mx/)
 ## Contenido:
 
 Es importante señalar que no todos los Diputados presentaron su informe, y que en algunos casos no se pudo extraer el texto de la versión de PDF.
+En resumen, se cuenta con los informes de 340 Diputados.
 
-En resumen, se cuenta con los informes de 340 Diputados los cuales están distribuidos por Partido Político de la siguiente manera:
+Los cuales están distribuidos por Partido Político de la siguiente manera:
 
-![Frecuencia de las sesiones de Diputados y Senadores](https://github.com/lizBelmonte/NLP_Diputados/blob/master/gfx/partidos.png)
+![Diputados por partido](https://github.com/lizBelmonte/NLP_Diputados/blob/master/gfx/partidos.png)
+
+Los cuales están distribuidos por Partido Político de la siguiente manera:
+
+![Diputados por estado](https://github.com/lizBelmonte/NLP_Diputados/blob/master/gfx/estados.png)
