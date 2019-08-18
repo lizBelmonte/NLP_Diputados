@@ -29,6 +29,6 @@ Los cuales están distribuidos por Partido Político de la siguiente manera:
 
 ![Diputados por partido](https://github.com/lizBelmonte/NLP_Diputados/blob/master/gfx/partidos.png)
 
-Los cuales están distribuidos por Partido Político de la siguiente manera:
+La distribución de los informes por Estado del país al que representan se muestra en la siguiete figura:
 
 ![Diputados por estado](https://github.com/lizBelmonte/NLP_Diputados/blob/master/gfx/estados.png)
